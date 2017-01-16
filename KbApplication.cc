@@ -168,21 +168,7 @@ void KbApplication::AboutRequested()
 		, "MIDI Keyboard by Martijn Sipkema"
 		"\n1.5.3 GPL, 2002/04/08"
 		"\n\nMail bugs or comments to:\nmsipkema@sipkema-digital.com"
-		"\n\n© Copyright 2000-2002 Martijn Sipkema"
-		"\n\nMIDI Keyboard is free software; you can redistribute it and/or modify " 
-    "it under the terms of the GNU General Public License as published by "
-    "the Free Software Foundation; either version 2 of the License, or " 
-    "(at your option) any later version." 
-
-    "\n\nMIDI Keyboard is distributed in the hope that it will be useful, "
-    "but WITHOUT ANY WARRANTY; without even the implied warranty of "
-    "MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the "
-    "GNU General Public License for more details. "
-
-    "\n\nYou should have received a copy of the GNU General Public License "
-    "along with MIDI Keyboard; if not, write to the Free Software "
-    "Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA"
-		, "OK");
+		"\n\n© Copyright 2000-2002 Martijn Sipkema", "OK");
 	about_alert->Go();
 }
 

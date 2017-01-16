@@ -917,7 +917,7 @@ BPopUpMenu* KeyboardView::create_menu()
 		item->SetMarked(true);
 	pop_up_menu->AddItem(item);
 	/////
-	item = new BMenuItem("Octave Numbers", new BMessage(SET_NUM_C));
+	item = new BMenuItem("Octave numbers", new BMessage(SET_NUM_C));
 	item->SetTarget(this);
 	if(m_num_c)
 		item->SetMarked(true);

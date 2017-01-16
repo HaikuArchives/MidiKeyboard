@@ -303,7 +303,7 @@ BPopUpMenu* StatusView::create_menu()
 	menu->AddItem(item);	
 	menu->AddSeparatorItem();
 	// transmit channel menu
-	BMenu* chan_transmit = new BMenu("Transmit Channel");
+	BMenu* chan_transmit = new BMenu("Transmit channel");
 
 	for(int i = 0; i < 16; ++i)
 	{
@@ -321,7 +321,7 @@ BPopUpMenu* StatusView::create_menu()
 	menu->AddItem(chan_transmit);
 
 	// receive channel menu
-	BMenu* chan_receive = new BMenu("Receive Channel");
+	BMenu* chan_receive = new BMenu("Receive channel");
 
 	for(int i = 0; i < 16; ++i)
 	{
