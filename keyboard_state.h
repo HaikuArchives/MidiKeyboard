@@ -31,6 +31,8 @@
 
 #include <list>
 
+using namespace std;
+
 class key
 {
 public:
