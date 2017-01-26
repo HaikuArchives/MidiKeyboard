@@ -47,6 +47,8 @@
 #include <MidiRoster.h>
 #include <cstdio>
 
+using namespace std;
+
 const uint32 SET_RECEIVE_CHANNEL = 'schR';
 const uint32 SET_TRANSMIT_CHANNEL = 'schT';
 const uint32 PRODUCER_CONNECT = 'ctPD';
