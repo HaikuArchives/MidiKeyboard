@@ -1,4 +1,4 @@
-![midikeyboard](/HaikuArchives/MidiKeyboard/Screenshot.png)
+![midikeyboard](/Screenshot.png)
 
 Virtual Midi Keyboard for HAIKU. Very handy tool when you do not have at hand a real MIDI keyboard or MIDI interface for connecting it.
 
